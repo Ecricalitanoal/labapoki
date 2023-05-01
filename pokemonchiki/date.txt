@@ -1,0 +1,7 @@
+Bob1 Water 20 5 5
+Bob2 Ice 20 5 5
+Bob3 Combat 20 5 5
+Bob4 Earthy 20 5 5
+Bob5 Mental 20 5 5
+Bob6 Draconic 20 5 5
+Bob7 Ice 20 5 5

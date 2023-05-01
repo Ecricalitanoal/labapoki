@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\danil\source\repos\pokemonchiki\pokemonchiki\Source.cpp(203,31): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\danil\source\repos\pokemonchiki\pokemonchiki\Source.cpp(203,58): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\danil\source\repos\pokemonchiki\pokemonchiki\Source.cpp(245,53): warning C4244: *=: преобразование "float" в "int", возможна потеря данных
+C:\Users\danil\source\repos\pokemonchiki\pokemonchiki\Source.cpp(246,58): warning C4244: *=: преобразование "float" в "int", возможна потеря данных
+C:\Users\danil\source\repos\pokemonchiki\pokemonchiki\Source.cpp(247,53): warning C4244: *=: преобразование "float" в "int", возможна потеря данных
+C:\Users\danil\source\repos\pokemonchiki\pokemonchiki\Source.cpp(248,58): warning C4244: *=: преобразование "float" в "int", возможна потеря данных
+C:\Users\danil\source\repos\pokemonchiki\pokemonchiki\Source.cpp(187): warning C4715: str_to_type: значение возвращается не при всех путях выполнения
+C:\Users\danil\source\repos\pokemonchiki\pokemonchiki\Source.cpp(198): warning C4715: type_to_str: значение возвращается не при всех путях выполнения
+  pokemonchiki.vcxproj -> C:\Users\danil\source\repos\pokemonchiki\x64\Debug\pokemonchiki.exe
